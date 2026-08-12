@@ -1,4 +1,4 @@
-customer:
+account:
   welcomeMessage: "Welcome to FinBank Customer Service - Production"
   support:
     team: "Customer Operations Team"
