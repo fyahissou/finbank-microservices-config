@@ -6,7 +6,7 @@ customer:
     phone: "+34 600 123 456"
   compliance:
     kycPolicy: "Full KYC verification required"
-    gdprContact: "gdpr@finbank.com"
+    gdprContact: "{cipher}6cd1ba57b8219c967e85b807342784205142cb3b395509884b524e38ebe9289cbaa8035e721cc156a580737662f838fd"
   escalationContacts:
     - "+34 600 987 654"
     - "+34 600 555 321"
