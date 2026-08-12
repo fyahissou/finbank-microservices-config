@@ -1,0 +1,12 @@
+customer:
+  welcomeMessage: "DEV environment - FinBank Customer Service"
+  support:
+    team: "Customer Dev Support"
+    email: "dev-support@finbank.com"
+    phone: "+34 600 000 111"
+  compliance:
+    kycPolicy: "KYC checks disabled in DEV"
+    gdprContact: "florent.ahissou@hotmail.com"
+  escalationContacts:
+    - "+34 600 111 222"
+  serviceVersion: "v1.0.0-DEV"

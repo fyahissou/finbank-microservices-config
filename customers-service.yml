@@ -1,0 +1,17 @@
+customer:
+  welcomeMessage: "Welcome to FinBank Customer Service APIs"
+
+  support:
+    team: "Customer Operations Team"
+    email: "support@finbank.com"
+    phone: "+34 600 123 456"
+
+  compliance:
+    kycPolicy: "KYC verification required for all new customers"
+    gdprContact: "gdpr@finbank.com"
+
+  escalationContacts:
+    - "+34 600 987 654"
+    - "+34 600 555 321"
+
+  serviceVersion: "v1.0.0"

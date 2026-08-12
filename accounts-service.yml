@@ -1,0 +1,20 @@
+account:
+  welcomeMessage: "Welcome to FinBank Account Service"
+
+  support:
+    email: "support@finbank.com"
+    phone: "+34 600 987 654"
+    hours: "Mon-Fri 08:00 - 18:00"
+
+  compliance:
+    amlContact: "aml@finbank.com"
+    auditTeam: "audit@finbank.com"
+    dataProtectionOfficer: "dpo@finbank.com"
+
+  escalationContacts:
+    - "head.accounts@finbank.com"
+    - "cto@finbank.com"
+    - "ceo@finbank.com"
+
+  serviceVersion: "v1.0.0"
+

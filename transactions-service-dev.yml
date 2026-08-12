@@ -1,0 +1,19 @@
+transaction:
+  welcomeMessage: "Welcome to FinBank Transaction Service Dev"
+
+  support:
+    email: "support-transactions@finbank.com"
+    phone: "+34 600 123 999"
+    hours: "Mon-Fri 08:00 - 18:00"
+
+  compliance:
+    amlContact: "aml-transactions@finbank.com"
+    auditTeam: "audit-transactions@finbank.com"
+    fraudDesk: "frauddesk@finbank.com"
+
+  escalationContacts:
+    - "head.transactions@finbank.com"
+    - "cto@finbank.com"
+    - "ceo@finbank.com"
+
+  serviceVersion: "v1.0.0"
