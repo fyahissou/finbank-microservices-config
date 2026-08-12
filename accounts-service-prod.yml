@@ -2,12 +2,12 @@ customer:
   welcomeMessage: "Welcome to FinBank Customer Service - Production"
   support:
     team: "Customer Operations Team"
-    email: "63e5f69d558069051ec58f7ad19f3716f5a3f7f2e5dcd820ead1bfdfacfbbdff78789d93633d41de617d04035ab14ba3"
+    email: "{cipher}63e5f69d558069051ec58f7ad19f3716f5a3f7f2e5dcd820ead1bfdfacfbbdff78789d93633d41de617d04035ab14ba3"
     phone: "+34 600 123 456"
   compliance:
     kycPolicy: "Full KYC verification required"
     gdprContact: "gdpr@finbank.com"
   escalationContacts:
-    - "b3882bcfae7c67c0ddfb953f56eb3acf71d33f86de3824aaa622e355c75b44c0"
+    - "{cipher}b3882bcfae7c67c0ddfb953f56eb3acf71d33f86de3824aaa622e355c75b44c0"
     - "+34 600 555 321"
   serviceVersion: "v1.0.0"
