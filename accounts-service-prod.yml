@@ -1,5 +1,5 @@
 account:
-  welcomeMessage: "Welcome to FinBank Customer Service - Prod"
+  welcomeMessage: "Welcome to FinBank Customer Service - Production"
   support:
     team: "Customer Operations Team"
     email: "{cipher}63e5f69d558069051ec58f7ad19f3716f5a3f7f2e5dcd820ead1bfdfacfbbdff78789d93633d41de617d04035ab14ba3"
