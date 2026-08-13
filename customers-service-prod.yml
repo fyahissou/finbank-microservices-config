@@ -1,5 +1,5 @@
 customer:
-  welcomeMessage: "Welcome to FinBank Customer Service - Prod"
+  welcomeMessage: "Welcome to FinBank Customer Service - Production"
   support:
     team: "Customer Operations Team"
     email: "support@finbank.com"
