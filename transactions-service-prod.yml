@@ -1,5 +1,5 @@
 transaction:
-  welcomeMessage: "Welcome to FinBank Transaction Service - Prod"
+  welcomeMessage: "Welcome to FinBank Transaction Service - Production"
 
   support:
     email: "support-transactions@finbank.com"
