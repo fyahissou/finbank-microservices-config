@@ -1,5 +1,5 @@
 transaction:
-  welcomeMessage: "Welcome to FinBank Transaction Service - Production"
+  welcomeMessage: "Welcome to FinBank Transaction Service - Prod test webhook"
 
   support:
     email: "support-transactions@finbank.com"
